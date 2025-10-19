@@ -24,7 +24,7 @@ Proposals follow [the TC39 process](https://tc39.es/process-document/) and are t
 
 ### Contributing New Proposals
 
-Please see [Contributing to ECMAScript](/CONTRIBUTING.md) for the most up-to-date information on contributing proposals to this standard.
+Please see [Contributing to ECMAScript](/CONTRIBUTING.md) for the most up-to-date information on contributing proposals to this Standard.
 
 ## Developing the Specification
 
